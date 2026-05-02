@@ -20,6 +20,6 @@ function GeneradorExcusas(){
 
 
 
+ 
 GeneradorExcusas();
-
 setInterval(GeneradorExcusas, 3000)
